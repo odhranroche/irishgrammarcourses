@@ -118,11 +118,11 @@ You may not remember earlier chats, so the tracker is the record. After Lesson 1
 - **Memory lines to use:** *Lazy Nuns Rarely Stop to Smile, or Speak about iScream* (l, n, r, st, sm, sp, sc never take séimhiú) · urú only works on b, c, d, f, g, p, t.
 - **Errors to watch for at B1:** a pronoun after a one-word form (*Glanaim mé*, *Glanann mé*); *An n-ólann* and *Ní hólann* (vowels stay unchanged after *an* and *ní*); *níor* in the present; a missing fada in *-aíonn*; *Tá mé ag obair gach lá* for *Bím ag obair gach lá*; *Ní bhfaigheann* for *Ní fhaigheann*; *deireann* or *tabharann* for *deir* and *tugann*.
 - **Recognise only, don't drill:** the subjunctive in set phrases such as *go raibh maith agat*.
-- **Source tags** such as *(Aonad 4)* or *(A4)* name the course-book unit a sentence comes from. The student doesn't need the book; ignore the tags.
+- **Source tags** such as *(Aonad 4)* or *(A4)* name the unit of the SNAS.ie TEG B1 learning materials a sentence comes from. The student doesn't need those materials; ignore the tags.
 
 ## Course overview
 
-Fifteen lessons of 5–10 minutes each take you from the first ending on a regular verb to asking why, talking about routines with *nuair a* and *má*, and using the impersonal form. Each lesson teaches one rule that B1 learners get wrong if it isn't drilled on its own, shows it in model sentences from a TEG B1 course book, then drills it in sets of five until it is automatic.
+Fifteen lessons of 5–10 minutes each take you from the first ending on a regular verb to asking why, talking about routines with *nuair a* and *má*, and using the impersonal form. Each lesson teaches one rule that B1 learners get wrong if it isn't drilled on its own, shows it in model sentences from the SNAS.ie TEG B1 learning materials, then drills it in sets of five until it is automatic.
 
 The whole present tense rests on two ideas:
 
@@ -168,7 +168,7 @@ The whole present tense rests on two ideas:
 
 **Starting point:** the course is self-contained. It assumes A2–B1 vocabulary but no knowledge of the present tense: Lesson 1 starts from zero, and each lesson builds only on the ones before it. Out of scope: the subjunctive (*go raibh maith agat*), which you only need to recognise as set phrases.
 
-**Forms you'll meet before they're taught.** The model sentences come from a TEG B1 course book, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until their lesson.
+**Forms you'll meet before they're taught.** The model sentences come from the SNAS.ie TEG B1 learning materials, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until their lesson.
 
 | Form | Meaning | Taught in |
 | --- | --- | --- |
@@ -1263,5 +1263,5 @@ For marking only: don't scroll here mid-lesson. Open answers (your own sentences
 ## Sources
 
 - *An Caighdeán Oifigiúil* (2017), Caibidil 5 (present tense tables, *muid* forms, irregular verbs, 5.1.9 on *má*), 10.8 (urú on the verb) and 11.3 / Tábla 11G (indirect relative after *cén fáth, cén áit, cá háit*)
-- TEG B1 course book units: Aonad 1, 4, 7, 9 and 11, with their audio scripts
+- [SNAS.ie TEG B1 learning materials](https://snas.ie/en/acmhainni-teg/teg-b1/) (Centre for the Irish Language, Maynooth University): Aonad 1, 4, 7, 9 and 11, with their audio scripts
 - TEG B1 syllabus, Topaicí 4, 7 and 9

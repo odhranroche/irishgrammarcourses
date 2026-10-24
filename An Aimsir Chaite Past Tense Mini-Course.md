@@ -116,11 +116,11 @@ You may not remember earlier chats, so the tracker is the record. After Lesson 1
 - **Memory lines to use:** *Lazy Nuns Rarely Stop to Smile, or Speak about iScream* (l, n, r, st, sm, sp, sc never take séimhiú) · *A TICK a BIT me* (*tar, ith, clois, beir, tabhair*: irregulars that take *ar / níor / gur / nár*) · *Big Angry Ferrets Fight Till Dawn* (*bí, abair, faigh, feic, téigh, déan*: irregulars that take *an / ní / go / nach*).
 - **Errors to watch for at B1:** *Ar d'ól* and *Níor d'éirigh* (the *d'* stays in); *Ní chuir* for *Níor chuir*; *Ní fuair* for *Ní bhfuair*; *an* or *ní* with the five *ar / níor* irregulars (*An tháinig?*); *Cá chuaigh* for *Cá ndeachaigh*.
 - **Recognise only, don't drill:** the past habitual (*bhínn, a bhíodh*) and Munster "they" endings (*chaitheadar*).
-- **Source tags** such as *(Aonad 5)* name the course-book unit a sentence comes from. The student doesn't need the book; ignore the tags.
+- **Source tags** such as *(Aonad 5)* name the unit of the SNAS.ie TEG B1 learning materials a sentence comes from. The student doesn't need those materials; ignore the tags.
 
 ## Course overview
 
-Seventeen lessons of 5–10 minutes each take you from the first letter of a regular verb to reporting what someone said with an irregular one. Each lesson teaches one small rule, shows it in short model sentences from a TEG B1 course book, then drills it in sets of five until it is automatic.
+Seventeen lessons of 5–10 minutes each take you from the first letter of a regular verb to reporting what someone said with an irregular one. Each lesson teaches one small rule, shows it in short model sentences from the SNAS.ie TEG B1 learning materials, then drills it in sets of five until it is automatic.
 
 The whole past tense rests on two ideas:
 
@@ -165,7 +165,7 @@ The whole past tense rests on two ideas:
 
 **Starting point:** the course is self-contained. It assumes A2–B1 vocabulary but no knowledge of the past tense: Lesson 1 starts from zero, and each lesson builds only on the ones before it. Out of scope: the past habitual (*bhínn*), which the syllabus asks you only to recognise.
 
-**Forms you'll meet before they're taught.** The model sentences are real sentences from a TEG B1 course book, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until Part C.
+**Forms you'll meet before they're taught.** The model sentences are real sentences from the SNAS.ie TEG B1 learning materials, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until Part C.
 
 | Form | Meaning | Taught in |
 | --- | --- | --- |
@@ -1373,5 +1373,5 @@ For marking only: don't scroll here mid-lesson. Open answers (your own sentences
 ## Sources
 
 - *An Caighdeán Oifigiúil* (2017): past tense tables, irregular verbs, the impersonal form, and the particles *ar, níor, gur, nár* and *an, ní, go, nach*
-- TEG B1 course book units: Aonad 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14 and 15, with their audio scripts
+- [SNAS.ie TEG B1 learning materials](https://snas.ie/en/acmhainni-teg/teg-b1/) (Centre for the Irish Language, Maynooth University): Aonad 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 14 and 15, with their audio scripts
 - TEG B1 syllabus, Topic 5 and its grammar notes

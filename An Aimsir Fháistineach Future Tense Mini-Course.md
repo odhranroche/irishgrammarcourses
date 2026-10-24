@@ -117,11 +117,11 @@ You may not remember earlier chats, so the tracker is the record. After Lesson 1
 - **Memory lines to use:** *Lazy Nuns Rarely Stop to Smile, or Speak about iScream* (l, n, r, st, sm, sp, sc never take séimhiú) · urú only works on b, c, d, f, g, p, t.
 - **Errors to watch for at B1:** *glanfaim* for *glanfaidh mé* (there is no one-word "I" form); séimhiú in a statement (*Ghlanfaidh mé*); a missing fada in *-óidh*; *éiróidh* for *éireoidh*; *An n-ólfaidh* and *Ní hólfaidh*; *níor* in the future; *nuair a* + present where the future is needed (*nuair a bheidh*); *má* + future where the present is needed (*má bhíonn*); *ní gheobhaidh* for *ní bhfaighidh*.
 - **Recognise only, don't drill:** the conditional after *Dúirt sé go …* (*go mbeadh, go rachadh*).
-- **Source tags** such as *(Aonad 12)* name the course-book unit a sentence comes from. The student doesn't need the book; ignore the tags.
+- **Source tags** such as *(Aonad 12)* name the unit of the SNAS.ie TEG B1 learning materials a sentence comes from. The student doesn't need those materials; ignore the tags.
 
 ## Course overview
 
-Thirteen lessons of 5–10 minutes each take you from the first future ending on a regular verb to making plans with *nuair a* and *má*, asking about the future and reading official announcements. Each lesson teaches one rule that B1 learners get wrong if it isn't drilled on its own, shows it in model sentences from a TEG B1 course book, then drills it in sets of five until it is automatic.
+Thirteen lessons of 5–10 minutes each take you from the first future ending on a regular verb to making plans with *nuair a* and *má*, asking about the future and reading official announcements. Each lesson teaches one rule that B1 learners get wrong if it isn't drilled on its own, shows it in model sentences from the SNAS.ie TEG B1 learning materials, then drills it in sets of five until it is automatic.
 
 The whole future tense rests on two ideas:
 
@@ -165,7 +165,7 @@ The whole future tense rests on two ideas:
 
 **Starting point:** the course is self-contained. It assumes A2–B1 vocabulary but no knowledge of the future tense: Lesson 1 starts from zero, and each lesson builds only on the ones before it. Lesson 11 uses a few present-tense forms after *má* and *mura*; the lesson gives them. Out of scope: the conditional (*bheadh, rachadh*), which you only need to recognise in reported speech (*Dúirt sé go mbeadh sé déanach*).
 
-**Forms you'll meet before they're taught.** The model sentences come from a TEG B1 course book, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until their lesson.
+**Forms you'll meet before they're taught.** The model sentences come from the SNAS.ie TEG B1 learning materials, so a few irregular verbs appear before Part C covers them. Recognise these for now; you won't be asked to produce them until their lesson.
 
 | Form | Meaning | Taught in |
 | --- | --- | --- |
@@ -895,11 +895,11 @@ Present forms you need here: *bíonn* (usually is), *téann* (goes), *tagann* (c
 
 **Recall:** R1. Nuair a \_\_\_ *(bí)* tú réidh, … · R2. Má \_\_\_ *(bí)* an aimsir go maith, … · R3. Cá \_\_\_ *(téigh)* sibh?
 
-**Model sentences** (Caighdeán; course units; Aonad 11 script):
+**Model sentences** (Caighdeán; SNAS.ie units; Aonad 11 script):
 
 - **Foilseofar** Tuarascáil Bhliantúil an Choimisinéara Faisnéise, 2014 go luath. (Caighdeán 3.1.8)
 - **Ní ghlacfar** le haon iarratas a **gheofar** tar éis an 7 Márta 2016. (Caighdeán 1.1.5)
-- **Díreofar** ar na míreanna seo gramadaí. (course unit introductions)
+- **Díreofar** ar na míreanna seo gramadaí. (SNAS.ie unit introductions)
 - Níl a fhios againn cén uair a **scaoilfear** amach í. (A11 script)
 
 *foilsigh* publish · *glac le* accept · *iarratas* application · *dírigh ar* focus on
@@ -1125,5 +1125,5 @@ For marking only: don't scroll here mid-lesson. Open answers (your own sentences
 ## Sources
 
 - *An Caighdeán Oifigiúil* (2017), Caibidil 5 (future tense tables, *muid* forms, irregular verbs; 5.1.9 on *má* and *nuair a*), 10.8 (urú on the verb) and 11.3 / Tábla 11G (indirect relative after *cén fáth, cén áit*)
-- TEG B1 course book units: Aonad 6, 7, 11, 12 and 15, with their audio scripts
+- [SNAS.ie TEG B1 learning materials](https://snas.ie/en/acmhainni-teg/teg-b1/) (Centre for the Irish Language, Maynooth University): Aonad 6, 7, 11, 12 and 15, with their audio scripts
 - TEG B1 syllabus, Topaic 15 and its grammar notes

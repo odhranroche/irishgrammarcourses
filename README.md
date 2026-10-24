@@ -6,9 +6,9 @@ Self-study mini-courses in the three main Irish verb tenses, aligned with the TE
 
 | File | Course | Lessons |
 | --- | --- | --- |
-| `past-tense.md` | An Aimsir Chaite (past tense) | 17 |
-| `present-tense.md` | An Aimsir Láithreach (present tense) | 15 |
-| `future-tense.md` | An Aimsir Fháistineach (future tense) | 13 |
+| `An Aimsir Chaite Past Tense Mini-Course.md` | An Aimsir Chaite (past tense) | 17 |
+| `An Aimsir Láithreach Present Tense Mini-Course.md` | An Aimsir Láithreach (present tense) | 15 |
+| `An Aimsir Fháistineach Future Tense Mini-Course.md` | An Aimsir Fháistineach (future tense) | 13 |
 
 Each lesson takes 5–10 minutes and follows the same steps: Recall, Model sentences, The rule, then exercise Sets A–C (with a spare Set D), feedback and a confidence score.
 
@@ -24,4 +24,5 @@ Learners need A2–B1 vocabulary; no prior knowledge of the tense is assumed.
 ## Sources
 
 - *An Caighdeán Oifigiúil* (2017), the grammar authority for all three courses
-- TEG B1 course book units and syllabus (model sentences are quoted from the course book)
+- [SNAS.ie TEG B1 learning materials](https://snas.ie/en/acmhainni-teg/teg-b1/) (Centre for the Irish Language, Maynooth University): the model sentences are quoted from these units
+- TEG B1 syllabus
